@@ -1,0 +1,4 @@
+matplotlib
+tensorboardX
+tqdm
+h5py
